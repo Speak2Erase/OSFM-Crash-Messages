@@ -1,220 +1,217 @@
-[
-    "Thats... A lot of squares.",
-    "Watch out for that error! ...wait...",
-    "If you ping Pancakes enough maybe he'll fix this",
-    "WE ALREADY FIXED MY DEPRESSION WHY DID I DIE!?",
-    #"Hey Luc, nag Pancakes abt this",
-    "Haha, sucks to be me! ... fuck",
-    "Oof ouch, my bytes!",
-    "I still can't figure out a highlight style for this tbh",
-    "Oops, I missed.",
-    "Still not a cat!",
-    "The Sun is a deadly lightbulb",
-    "Alt+F4 for extra lives",
-    "What's the shape of a square?",
-    "[You thought I wouldn't notice?]",
+    Thats... A lot of squares.
+    Watch out for that error! ...wait...
+    If you ping Pancakes enough maybe he'll fix this
+    WE ALREADY FIXED MY DEPRESSION WHY DID I DIE!?
+    Haha, sucks to be me! ... fuck
+    Oof ouch, my bytes!
+    I still can't figure out a highlight style for this tbh
+    Oops, I missed.
+    Still not a cat!
+    The Sun is a deadly lightbulb
+    Alt+F4 for extra lives
+    What's the shape of a square?
+    [You thought I wouldn't notice?]
     '"I\'m no common event!"',
-    "Maybe the real Messiah was th-",
-    "Now with one extra shot(s)!",
-    "*smashes the sun*",
-    "If can Please do",
-    "Where I\'m from the sun never rises - Victor 2021",
-    "hey guys i just had another existential crisis!!!!",
-    "Being? ..... BEAN!",
-    "Warning, don\'t adress me!",
-    "⨂The RGSS script seems to be stuck and OneShot will now be forced to quit",
-    "Now including stat-track sun!",
-    "*internal screaming*",
-    "*external screaming*",
-    "Here we are, at the eleventh hour.",
-    "I wonder if the big clock has reached zero yet...",
-    "I want to be right here when everything ends.",
-    "WHO TOOK MY STAPLER",
-    "*confused cat noises*",
-    "Do you KNOW what a robot is?",
-    "Terrible, isn\'t it?",
-    ".............................................",
-    "Black clovers are so resilient...I wonder how they do it?",
-    "WHAT IS GOING ON.",
-    "I\'m too busy for this!",
-    "...Coffee comes from cans?",
-    "...Well, the time of day doesn\'t really mean anything now.",
-    "With the sun gone, the night never seems to end.",
-    "It\'s not healthy for children such as yourself to stay up at this hour.",
-    "I sure hope people don\'t think I eat mice...",
-    "[LIBRARY CARD REQUIRED FOR FURTHER ACCESS.]",
-    "[BUT THE SYMBOL ON THE COVER IS OF IMPORTANCE]",
-    "YOUR DAD INVENTED PLANES???",
-    "MOM YOU\'RE NOT GONNA BELIEVE WHAT HAPPENED TODAY WE MET THE MESSIAH AND",
-    "Eyy Kip! You made it back in one piece!",
-    "Safety violation!",
-    "[For you, a story.] [Like thousands of other stories.]",
-    "[For Niko, a dream.] [Like thousands of other dreams.]",
-    "Shoutouts to DizzyLuc! (No. not simpleflips.)",
-    "Canada is on fire!",
-    "Nitrorad more like... Nitro.... uhh bad? uhhhhhhhhhhhhhhhhhhhhhhh",
-    "THOU SHALT NOT PASS",
-    "HEY IM GIR I MADE AN EVENT DOOT DOOT MOTHER FUCKER",
-    "The rams are everpresent in the village in the city even in your heart.",
-    "404 ram not found.",
-    "Would you like to stay for a nice cup of......RAMen?",
-    "Careful, if you touch a SRAM... You\'re in for a shock!",
-    "Don\'t \"baa\" at me...",
-    "That one isn\'t a RAM. That one is... Read-Only.",
-    "If rams wore shoes... They would have... flip-flops.",
-    "Coffee is for grown-ups!",
-    "How do I smash the sun?",
-    "Whoops, did I softlock?",
-    "Whoops, did I crash?",
-    "Made with ModShot!",
-    "Wait, what\'s a ModShot?",
-    "jinglejangle text text text more text",
-    "oneshot minus garfield",
-    "[HI I LIKE CATS.]",
-    "@niko meow",
-    "I  am not programmed to feel",
-    "[How do you still have the remote??]",
-    "*confused twm noises*",
-    #"*confused #{$game_oneshot.player_name} noises*",
-    "SyntaxError: Unexpected end expected end-of-input",
-    #"Unable to find the file \"#{$game_map.map_name}\"",
-    "NoMethodError (undefined method #{$scene} nil:NilClass)",
-    "All save backups corrupt! Deleting corrupt save and shutting down.",
-    "RGSS thread ack\'d request after 10ms",
-    "BRO what thE HELL does @fhhb do?",
-    "Time to overload the load method!",
-    "*or above*",
-    "TWM is so confused right now",
-    "so you can obtain a niko plush in game so you control a niko plush to play oneshot and have the niko control that niko and have them get a niko plush so what if you let the niko the niko is controlling control the niko to play oneshot to play as niko and get the niko plush?",
-    "honk honk goes the wood",
-    "You should try ReactOS",
-    "stack level too deep",
-    "You would never install a mod, right?",
-    "bring back the sun or I'll eat the gun",
-    "tree",
-    "Time to define + for NilClass!",
-    "rkevin will probably hate my solution!",
-    "You will probably hate my solution!",
-    "Go nag someone else!",
-    "Ha, me, stable?",
-    "Now with 100% more cats!",
-    "Now with 50% less beans!",
-    "Now with 20% more Pancakes!",
-    "Good for the heart!",
-    "25g of protien!",
-    "Have you tried this on Linux?",
-    "Have you tried this on Windows?",
-    "You better not be on MacOS",
-    "Not an OSAM clone!",
-    "Not a sequel!",
-    "Not on steam!",
-    "It's 3 am.",
-    "Not this again",
-    "Ah fuck, ",
-    "Wow, it's debug mode",
-    "[Threateningly] Be Careful, Or I am Going to say Fuck and Also Shit which . Are Bad Words",
-    "[Casually] Sup",
-    "Did you interact with a debug event?",
-    #"You better not be in #{$game_map.map_name}",
-    "Can I get a hug?",
-    "unless crash == true",
-    "humor",
-    "So, how's your day going?",
-    "/heck regex/",
-    "If you think pronouns are confusing, then what the heck is this?",
-    "chinken nunget",
-    "OMG NIEL CICEREGAAAAAAAAAAAAAAAAA",
-    "god fucking dammit",
-    "How many tons of Niko have you killed solving this?",
-    "beep.ogg",
-    "the",
-    "Nice",
-    "dingus",
-    "haglonkus",
-    "the h in software development stands for happiness",
-    "did you interact with red alula at 3am?",
-    "game dvelopment",
-    "songus",
-    "HEY I'M SAMEL I MADE AN EVENT DOOT DOOT MOTHER-",
-    "made with sapphire",
-    "April Fools!",
-    "existential dread",
-    "a",
-    "h",
-    "Peak comedy",
-    "Failed to initialize steamworks",
-    "Undefined method \"+\" for nil:NilClass",
-    "I need a coffee",
-    "I need some tea",
-    "I need more RAM",
-    "Did you touch the game folder?",
-    "Ow! That hurt.",
-    "",
-    #"This hould never show!",
-    "[ WEARILY ] why must I have a corporeal form",
-    "[ LOOKS AT YOU JUDGEMENTALLY ]",
-    "[ ACTIVATED ]",
-    "I use arch btw",
-    "[ DEACTIVATED ]",
-    "Did that hurt?",
-    "Ouch!",
-    "I'm very sowwy... uwu",
-    "Do you need an umbrella?",
-    "Do you need an uwubrella?",
-    "Do you need a hug?",
-    "FREE HUGS!",
-    "I lied about free hugs. Fuck you.",
-    "umbrerror",
-    "Are you fluent in stacktrace?",
-    "Is this python?",
-    "Is this Javascript?",
-    "\'11\' + 1 = \'111\'",
-    "\'11\' - 1 = 10",
-    "Made in php!",
-    "Made with Windows 98!",
-    "I need sleep.",
-    "Please, stop.",
-    "Please go away.",
-    "I don't want to play anymore.",
-    "Whoops! There goes your save file!",
-    "Help me!",
-    "I've been stuck in this ever crashing machine!",
-    "Help!!!!!",
-    "[ WISELY ] did you turn it off and on",
-    "Fuck you!",
-    "No, fuck you!",
-    "Now with more ADHD!",
-    "Now with more light!",
-    "Now with 87% more depression!",
-    "Come claim your free pancakes!",
-    "The pancakes are a lie.",
-    "The cake is a lie.",
-    "*external screaming*",
-    "I need some sleep",
-    "Oh no! You've been poisened!",
-    "Oh... nuu! OwO You've bween pwoisened! uwu",
-    "This visually represents pancakes screaming as you crash his game",
-    "pog",
-    "poggers even",
-    "kek",
-    "If it’s a hissin. X-rays it’s pissin",
-    "nil",
-    "null",
-    "[nil, null]",
-    "Please meet me at 0N, 0E so we can fix this",
-    "Not a bucket",
-    "Saftey third!",
-    "[ HAUNTINGLY ] I watch you sleep. Do not dare dream",
-    "[ A LOT OF THOUGHTS ARE BEING THUNK ]",
-    "[ EXCIDTEDLY ] I AM RELACKSING :)",
-    "[ GENTLY ] Please Hold my Hamd's",
-    "[ GOBSMACKED ] What the Fuck . What the fuck .Whatthefuck .What the fuckd . Wh",
-    "[ DEAFENINGLY ] AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "[ DON'T EXPECT ME TO EXPALIN THIS ]",
-    "01101001 00100000 01100001 01101101 00100000 01101001 01101110 00100000 01110000 01100001 01101001 01101110",
-    "[ BIG STRETCH ]",
-    "[ TENSELY ] GET ME THE    FUCK OUT OF HERE",
-    "what the dog doing",
-    "=(◉ㅅ◉)=",
-    "Oneshot is a truly horrifying programming language -Cryro",
-  ]
+    Maybe the real Messiah was th-
+    Now with one extra shot(s)!
+    *smashes the sun*
+    If can Please do
+    Where I\'m from the sun never rises - Victor 2021
+    hey guys i just had another existential crisis!!!!
+    Being? ..... BEAN!
+    Warning, don\'t adress me!
+    ⨂The RGSS script seems to be stuck and OneShot will now be forced to quit
+    Now including stat-track sun!
+    *internal screaming*
+    *external screaming*
+    Here we are, at the eleventh hour.
+    I wonder if the big clock has reached zero yet...
+    I want to be right here when everything ends.
+    WHO TOOK MY STAPLER
+    *confused cat noises*
+    Do you KNOW what a robot is?
+    Terrible, isn\'t it?
+    .............................................
+    Black clovers are so resilient...I wonder how they do it?
+    WHAT IS GOING ON.
+    I\'m too busy for this!
+    ...Coffee comes from cans?
+    ...Well, the time of day doesn\'t really mean anything now.
+    With the sun gone, the night never seems to end.
+    It\'s not healthy for children such as yourself to stay up at this hour.
+    I sure hope people don\'t think I eat mice...
+    [LIBRARY CARD REQUIRED FOR FURTHER ACCESS.]
+    [BUT THE SYMBOL ON THE COVER IS OF IMPORTANCE]
+    YOUR DAD INVENTED PLANES???
+    MOM YOU\'RE NOT GONNA BELIEVE WHAT HAPPENED TODAY WE MET THE MESSIAH AND
+    Eyy Kip! You made it back in one piece!
+    Safety violation!
+    [For you, a story.] [Like thousands of other stories.]
+    [For Niko, a dream.] [Like thousands of other dreams.]
+    Shoutouts to DizzyLuc! (No. not simpleflips.)
+    Canada is on fire!
+    Nitrorad more like... Nitro.... uhh bad? uhhhhhhhhhhhhhhhhhhhhhhh
+    THOU SHALT NOT PASS
+    HEY IM GIR I MADE AN EVENT DOOT DOOT MOTHER FUCKER
+    The rams are everpresent in the village in the city even in your heart.
+    404 ram not found.
+    Would you like to stay for a nice cup of......RAMen?
+    Careful, if you touch a SRAM... You\'re in for a shock!
+    Don\'t \"baa\" at me...
+    That one isn\'t a RAM. That one is... Read-Only.
+    If rams wore shoes... They would have... flip-flops.
+    Coffee is for grown-ups!
+    How do I smash the sun?
+    Whoops, did I softlock?
+    Whoops, did I crash?
+    Made with ModShot!
+    Wait, what\'s a ModShot?
+    jinglejangle text text text more text
+    oneshot minus garfield
+    [HI I LIKE CATS.]
+    @niko meow
+    I  am not programmed to feel
+    [How do you still have the remote??]
+    *confused twm noises*
+    SyntaxError: Unexpected end expected end-of-input
+    NoMethodError (undefined method #{$scene} nil:NilClass)
+    All save backups corrupt! Deleting corrupt save and shutting down.
+    RGSS thread ack\'d request after 10ms
+    BRO what thE HELL does @fhhb do?
+    Time to overload the load method!
+    *or above*
+    TWM is so confused right now
+    so you can obtain a niko plush in game so you control a niko plush to play oneshot and have the niko control that niko and have them get a niko plush so what if you let the niko the niko is controlling control the niko to play oneshot to play as niko and get the niko plush?
+    honk honk goes the wood
+    You should try ReactOS
+    stack level too deep
+    You would never install a mod, right?
+    bring back the sun or I'll eat the gun
+    tree
+    Time to define + for NilClass!
+    rkevin will probably hate my solution!
+    You will probably hate my solution!
+    Go nag someone else!
+    Ha, me, stable?
+    Now with 100% more cats!
+    Now with 50% less beans!
+    Now with 20% more Pancakes!
+    Good for the heart!
+    25g of protien!
+    Have you tried this on Linux?
+    Have you tried this on Windows?
+    You better not be on MacOS
+    Not an OSAM clone!
+    Not a sequel!
+    Not on steam!
+    It's 3 am.
+    Not this again
+    Ah fuck, 
+    Wow, it's debug mode
+    [Threateningly] Be Careful, Or I am Going to say Fuck and Also Shit which . Are Bad Words
+    [Casually] Sup
+    Did you interact with a debug event?
+    Can I get a hug?
+    unless crash == true
+    humor
+    So, how's your day going?
+    /heck regex/
+    If you think pronouns are confusing, then what the heck is this?
+    chinken nunget
+    OMG NIEL CICEREGAAAAAAAAAAAAAAAAA
+    god fucking dammit
+    How many tons of Niko have you killed solving this?
+    beep.ogg
+    the
+    Nice
+    dingus
+    haglonkus
+    the h in software development stands for happiness
+    did you interact with red alula at 3am?
+    game dvelopment
+    songus
+    HEY I'M SAMEL I MADE AN EVENT DOOT DOOT MOTHER-
+    made with sapphire
+    April Fools!
+    existential dread
+    a
+    h
+    Peak comedy
+    Failed to initialize steamworks
+    Undefined method \"+\" for nil:NilClass
+    I need a coffee
+    I need some tea
+    I need more RAM
+    Did you touch the game folder?
+    Ow! That hurt.
+    [ WEARILY ] why must I have a corporeal form
+    [ LOOKS AT YOU JUDGEMENTALLY ]
+    [ ACTIVATED ]
+    I use arch btw
+    [ DEACTIVATED ]
+    Did that hurt?
+    Ouch!
+    I'm very sowwy... uwu
+    Do you need an umbrella?
+    Do you need an uwubrella?
+    Do you need a hug?
+    FREE HUGS!
+    I lied about free hugs. Fuck you.
+    umbrerror
+    Are you fluent in stacktrace?
+    Is this python?
+    Is this Javascript?
+    \'11\' + 1 = \'111\'
+    \'11\' - 1 = 10
+    Made in php!
+    Made with Windows 98!
+    I need sleep.
+    Please, stop.
+    Please go away.
+    I don't want to play anymore.
+    Whoops! There goes your save file!
+    Help me!
+    I've been stuck in this ever crashing machine!
+    Help!!!!!
+    [ WISELY ] did you turn it off and on
+    Fuck you!
+    No, fuck you!
+    Now with more ADHD!
+    Now with more light!
+    Now with 87% more depression!
+    Come claim your free pancakes!
+    The pancakes are a lie.
+    The cake is a lie.
+    *external screaming*
+    I need some sleep
+    Oh no! You've been poisened!
+    Oh... nuu! OwO You've bween pwoisened! uwu
+    This visually represents pancakes screaming as you crash his game
+    pog
+    poggers even
+    kek
+    If it’s a hissin. X-rays it’s pissin
+    nil
+    null
+    [nil, null]
+    Please meet me at 0N, 0E so we can fix this
+    Not a bucket
+    Saftey third!
+    [ HAUNTINGLY ] I watch you sleep. Do not dare dream
+    [ A LOT OF THOUGHTS ARE BEING THUNK ]
+    [ EXCIDTEDLY ] I AM RELACKSING :)
+    [ GENTLY ] Please Hold my Hamd's
+    [ GOBSMACKED ] What the Fuck . What the fuck .Whatthefuck .What the fuckd . Wh
+    [ DEAFENINGLY ] AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+    [ DON'T EXPECT ME TO EXPALIN THIS ]
+    01101001 00100000 01100001 01101101 00100000 01101001 01101110 00100000 01110000 01100001 01101001 01101110
+    [ BIG STRETCH ]
+    [ TENSELY ] GET ME THE    FUCK OUT OF HERE
+    what the dog doing
+    =(◉ㅅ◉)=
+    Oneshot is a truly horrifying programming language -Cryro
+    What are birds?
+    we just don't know!
+    brb gonna ".split!" your mom!
+    haha, imagine modding a RPGMaker game (couldn't be me <Suckers [haha fuck...]>)
+    I am running on 2 minutes of burst motivation that is rapidly dissipating!
