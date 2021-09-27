@@ -11,15 +11,15 @@
     Alt+F4 for extra lives
     What's the shape of a square?
     [You thought I wouldn't notice?]
-    '"I\'m no common event!"',
+    '"I'm no common event!"',
     Maybe the real Messiah was th-
     Now with one extra shot(s)!
     *smashes the sun*
     If can Please do
-    Where I\'m from the sun never rises - Victor 2021
+    Where I'm from the sun never rises - Victor 2021
     hey guys i just had another existential crisis!!!!
     Being? ..... BEAN!
-    Warning, don\'t adress me!
+    Warning, don't adress me!
     ⨂The RGSS script seems to be stuck and OneShot will now be forced to quit
     Now including stat-track sun!
     *internal screaming*
@@ -30,20 +30,20 @@
     WHO TOOK MY STAPLER
     *confused cat noises*
     Do you KNOW what a robot is?
-    Terrible, isn\'t it?
+    Terrible, isn't it?
     .............................................
     Black clovers are so resilient...I wonder how they do it?
     WHAT IS GOING ON.
-    I\'m too busy for this!
+    I'm too busy for this!
     ...Coffee comes from cans?
-    ...Well, the time of day doesn\'t really mean anything now.
+    ...Well, the time of day doesn't really mean anything now.
     With the sun gone, the night never seems to end.
-    It\'s not healthy for children such as yourself to stay up at this hour.
-    I sure hope people don\'t think I eat mice...
+    It's not healthy for children such as yourself to stay up at this hour.
+    I sure hope people don't think I eat mice...
     [LIBRARY CARD REQUIRED FOR FURTHER ACCESS.]
     [BUT THE SYMBOL ON THE COVER IS OF IMPORTANCE]
     YOUR DAD INVENTED PLANES???
-    MOM YOU\'RE NOT GONNA BELIEVE WHAT HAPPENED TODAY WE MET THE MESSIAH AND
+    MOM YOU'RE NOT GONNA BELIEVE WHAT HAPPENED TODAY WE MET THE MESSIAH AND
     Eyy Kip! You made it back in one piece!
     Safety violation!
     [For you, a story.] [Like thousands of other stories.]
@@ -56,16 +56,16 @@
     The rams are everpresent in the village in the city even in your heart.
     404 ram not found.
     Would you like to stay for a nice cup of......RAMen?
-    Careful, if you touch a SRAM... You\'re in for a shock!
-    Don\'t \"baa\" at me...
-    That one isn\'t a RAM. That one is... Read-Only.
+    Careful, if you touch a SRAM... You're in for a shock!
+    Don't \"baa\" at me...
+    That one isn't a RAM. That one is... Read-Only.
     If rams wore shoes... They would have... flip-flops.
     Coffee is for grown-ups!
     How do I smash the sun?
     Whoops, did I softlock?
     Whoops, did I crash?
     Made with ModShot!
-    Wait, what\'s a ModShot?
+    Wait, what's a ModShot?
     jinglejangle text text text more text
     oneshot minus garfield
     [HI I LIKE CATS.]
@@ -76,7 +76,7 @@
     SyntaxError: Unexpected end expected end-of-input
     NoMethodError (undefined method #{$scene} nil:NilClass)
     All save backups corrupt! Deleting corrupt save and shutting down.
-    RGSS thread ack\'d request after 10ms
+    RGSS thread ack'd request after 10ms
     BRO what thE HELL does @fhhb do?
     Time to overload the load method!
     *or above*
@@ -161,8 +161,8 @@
     Are you fluent in stacktrace?
     Is this python?
     Is this Javascript?
-    \'11\' + 1 = \'111\'
-    \'11\' - 1 = 10
+    '11' + 1 = '111'
+    '11' - 1 = 10
     Made in php!
     Made with Windows 98!
     I need sleep.
@@ -257,3 +257,13 @@
     *gently holds*
     <undefined> has caused an error in <undefined>
     It's now safe to turn off your computer.
+    Balls Itchy
+    Balls
+    I like Balls
+    Can you just add Balls 947...  What's the crash again?
+    Is this thing still on
+    Ooh a shiny!
+    Git Moment
+    Git Moment part 2
+    Eleeleleleleleleleleventh Boogaloo
+    👁️👄👁️
